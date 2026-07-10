@@ -7,6 +7,33 @@ assemble the reel/post. Project-agnostic — parameterize the vars in §8 for an
 
 First built 2026-07-10 for Vibeaholics/Nova; generalized here.
 
+---
+
+## 0. Why this exists (the objective)
+
+**The work is the content.** Vibeaholics is a founder (Paul) building useful tools in the open and
+showing what they cost and whether they were worth it. Every real work session produces something no
+competitor can fabricate — actual numbers, real failures, honest costs, genuine decisions. That
+authenticity is the moat against AI slop and generic "build in public" fluff.
+
+So the objective of this pipeline is to **systematically convert each work session into a bank of
+grounded, on-brand content ideas plus the visual proof to make them real** — turning the receipts of
+building in the open into reels, honestly and with proof. Concretely it exists so that:
+
+- **Nothing valuable is lost.** Capture the ideas *and the material* (numbers, names, screenshots)
+  while the session is fresh; a week later the specifics are gone.
+- **Every idea is grounded, not abstract.** Real repos, real metrics, real screenshots → concrete
+  drafts. (Thin context always produces abstract, forgettable content.)
+- **The honest / counterintuitive moments are the point.** A regression, a feature you parked, a $1
+  test that caught a mistake — these are the *highest-value* content because they're differentiated
+  and credible. Wins-only "build in public" reads as marketing; the real story reads as trust.
+- **It's on-brand and on-voice.** Ideas map to the content pillars (e.g. The Journey / Tips, Tricks &
+  Tools / Curated / Vibes for Good) and the output follows the **same anti-slop voice discipline the
+  tools themselves enforce** — which is why even the visual cards get de-slop-scrubbed (§4).
+
+Everything below (§1-§9) is the *how*. This section is the *why* — if a step ever seems like busywork,
+check it against this: does it make the session's real story easier to tell, with proof?
+
 ## Flow
 
     session work
